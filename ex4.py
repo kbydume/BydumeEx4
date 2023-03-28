@@ -1,4 +1,9 @@
 ##Worked alone, contacted professor
 def Hello():
     print("Hello World!")
-Hello() 
+
+def Bye():
+    print("Bye World!")
+
+Hello()
+Bye() 
