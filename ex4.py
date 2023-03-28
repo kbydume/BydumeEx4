@@ -5,5 +5,9 @@ def Hello():
 def Bye():
     print("Bye World!")
 
-Bye() 
+def Noon(): 
+    print("Aftenoon World!") 
+
+Bye()
+Noon() 
 Hello()
