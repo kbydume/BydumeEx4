@@ -5,5 +5,5 @@ def Hello():
 def Bye():
     print("Bye World!")
 
-Hello()
 Bye() 
+Hello()
