@@ -1,4 +1,4 @@
-##Worked alone, contacted professor
+##Worked alone, contacted prof
 def Hello():
     print("Hello World!")
 
